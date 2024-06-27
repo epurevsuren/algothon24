@@ -2,3 +2,4 @@
 .venv/
 /citrine/
 /__pycache__/
+/env/

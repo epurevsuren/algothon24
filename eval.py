@@ -2,7 +2,7 @@
 
 import numpy as np
 import pandas as pd
-from Citrine import getMyPosition as getPosition
+from citrine import getMyPosition as getPosition
 
 nInst = 0
 nt = 0
